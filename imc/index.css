@@ -1,0 +1,25 @@
+body{
+    background-image: url(img/body1.jpg);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 200px;
+}
+#altura,#peso{
+    background-color:rgb(186, 211, 209);
+    border-radius: 5px;
+    margin: 5px;
+    
+}
+#btnResultado:hover{
+    color: rgba(233, 229, 14, 0.308);
+}
+#contenedor{
+    background-color: rgba(214, 216, 218, 0.267);
+    
+}
+
+
